@@ -2,4 +2,3 @@ alderan
 Coruscant
 Endor
 Hoth 
-Planeta Terra 
